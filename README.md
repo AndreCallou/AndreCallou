@@ -1,4 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Bem+vindo+ao+meu+hub+de+c%C3%B3digos)](https://git.io/typing-svg)
+
 --------------------------
 - 🎓 Graduando em **Análise e Desenvolvimento de Sistemas**  
 - 💻 Desenvolvendo projetos com **HTML, CSS, JavaScript e Python**  
